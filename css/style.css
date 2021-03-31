@@ -7650,11 +7650,11 @@ h1, h2, h3, h4, h5,
   .btn.btn-primary {
     background: #78d5ef;
     border: 2px solid #78d5ef;
-    color: #fff; }
+    color: black; }
     .btn.btn-primary:hover {
       border: 2px solid #78d5ef;
       background: transparent;
-      color: #78d5ef; }
+      color: black; }
     .btn.btn-primary.btn-outline-primary {
       border: 2px solid #78d5ef;
       background: transparent;
@@ -7662,7 +7662,7 @@ h1, h2, h3, h4, h5,
       .btn.btn-primary.btn-outline-primary:hover {
         border: 2px solid transparent;
         background: #78d5ef;
-        color: #fff; }
+        color: Black; }
   .btn.btn-outline-white {
     border-color: rgba(255, 255, 255, 0.8);
     background: none;
@@ -7672,8 +7672,8 @@ h1, h2, h3, h4, h5,
     border-radius: 30px;
     border-width: 2px; }
     .btn.btn-outline-white:hover, .btn.btn-outline-white:focus, .btn.btn-outline-white:active {
-      background: #fff;
-      border-color: #fff;
+      background: blackSS;
+      border-color: black;
       color: #404044; }
 
 .ftco-degree-bg {
